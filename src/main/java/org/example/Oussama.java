@@ -5,6 +5,7 @@ public class Oussama {
          System.out.println("Hello World");
          System.out.println("Hello World");
         for (int i = 0; i < 6; i++) {
+            System.out.println("Hello World");
             
         }
     }
